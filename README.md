@@ -2,7 +2,7 @@
 My Excel projects
 
 ***
-## 📚 Bike sales Dashboard (Alex The Analyst's Tutorial)
+## 🚴‍♀️ Bike sales Dashboard (Alex The Analyst's Tutorial)
 ***Link | Beginner | Free***
 
 Microsoft Excel
